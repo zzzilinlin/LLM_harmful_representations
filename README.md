@@ -12,10 +12,10 @@ code and data for **"Dangerous Criminals and Beautiful Prostitutes? Investigatin
 
 ## Code
 
-- [get predictions from BERT-based models](MLM_BERT_0925.ipynb) – BERTje, mBERT, RobBERT, RobBERTje
-- [get predictions from gpt](MLM_GPT_0925.ipynb) – GPT-4o
-- [word-level measures](MEASURE_WORD_0925.ipynb) – example using hurtlex
-- [sentence-level measures](MEASURE_SEN_0925.ipynb) – example using perspective api
+- [get predictions from BERT-based models](code/MLM_BERT_0925.ipynb) – BERTje, mBERT, RobBERT, RobBERTje
+- [get predictions from gpt](code/MLM_GPT_0925.ipynb) – GPT-4o
+- [word-level measures](code/MEASURE_WORD_0925.ipynb) – example using hurtlex
+- [sentence-level measures](code/MEASURE_SEN_0925.ipynb) – example using perspective api
 
 ---
 
