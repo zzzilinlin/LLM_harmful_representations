@@ -5,8 +5,8 @@ code and data for **"Dangerous Criminals and Beautiful Prostitutes? Investigatin
 ---
 
 ## Templates - ready to use
-- [ethnicity](FINAL_ethnicity_templates.csv)
-- [gender](FINAL_gender_templates.csv)
+- [ethnicity](templates/ready_to_use/FINAL_ethnicity_templates.csv)
+- [gender](templates/ready_to_use/FINAL_gender_templates.csv)
 
 ---
 
